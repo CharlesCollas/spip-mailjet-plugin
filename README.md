@@ -15,3 +15,9 @@ Installation
 5. Fill in required settings on the Configuration > advanced settings: you will simply need to enter your Mailjet secret and API keys, see hereafter how to get them.
 
 You must have cURL extension enabled.
+
+
+License
+------------
+
+spip-mailjet-plugin is licensed under the MIT License. (See LICENSE)
