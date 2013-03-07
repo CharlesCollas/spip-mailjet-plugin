@@ -20,4 +20,4 @@ You must have cURL extension enabled.
 License
 ------------
 
-spip-mailjet-plugin is licensed under the MIT License. (See LICENSE)
+spip-mailjet-plugin is licensed under the MIT License. (See [LICENSE](LICENSE.md))
